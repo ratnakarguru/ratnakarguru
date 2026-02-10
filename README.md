@@ -41,7 +41,7 @@ Let’s build something awesome together.
 
 ### 💻 Frontend Development
 
-<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />
+<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org" alt="CSS3 Icon" width="32" />
 
 ### 💻 Backend Development
 
